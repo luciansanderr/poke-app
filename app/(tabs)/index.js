@@ -44,7 +44,7 @@ const styles = new StyleSheet.create({
     container: {
         flex:1,
         backgroundColor: "#ccc",
-        margin: 10,
+        margin: 20,
         borderTopEndRadius: 10,
         borderTopStartRadius: 10,
         borderBottomEndRadius: 10,

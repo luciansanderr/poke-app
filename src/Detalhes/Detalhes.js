@@ -47,10 +47,11 @@ const styles = new StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
         flex: 1,
-        maxHeight: "50%"
+        maxHeight: "60%"
     },
     modalContainer: {
-        height: '80%',
+        marginTop: 200,
+        height: '90%',
         backgroundColor: '#c66969',
         borderTopEndRadius: 10,
         borderTopStartRadius: 10,
@@ -58,7 +59,6 @@ const styles = new StyleSheet.create({
         borderBottomStartRadius: 10
     },
     imgContainer: {
-        flex: 1,
         alignItems: "center"
     },
     img: {
